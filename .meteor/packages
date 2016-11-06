@@ -7,8 +7,6 @@
 autopublish
 mizzao:sharejs-codemirror
 twbs:bootstrap
-accounts-password
-ian:accounts-ui-bootstrap-3
 meteor-base
 mobile-experience
 mongo
@@ -24,3 +22,5 @@ spacebars
 check
 standard-minifier-css
 standard-minifier-js
+accounts-password
+ian:accounts-ui-bootstrap-3
